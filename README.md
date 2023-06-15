@@ -1,6 +1,10 @@
 
 
-In the project directory, you can run:
+In the project directory, you can run after cloning
+
+### npm install
+
+start the application
 
 ### `npm start`
 
