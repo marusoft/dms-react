@@ -1,0 +1,25 @@
+header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 2rem;
+}
+.logo-text {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 24px;
+  color: #030026;
+}
+.register-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 1.5rem;
+}
+.g-started, .reg-btn {
+  padding: 13px 23px;
+  background: #053582;
+  color: #ffffff;
+  border-radius: 10px;
+  cursor: pointer;
+  border: none;
+}
